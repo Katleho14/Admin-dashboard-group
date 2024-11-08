@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 import Header from "../components/common/Header";
 import StatCard from "../components/common/StatCard";
-import SalesOverviewChart from "../components/overview/SalesOverviewChart";
+import SalesOverviewChart from "../components/overview/SalesOverviewChart.jsx";
 
 
 const OverviewPage = () => {
